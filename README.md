@@ -42,7 +42,7 @@ for Markdown's syntax, type some text into the left window and
 watch the results in the right.
 
 ## Tech
-https://camo.githubusercontent.com/69f3f9d6e199ac0aba256198a79732f85d621b185bd10f6f5f30828ed3cb9060/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 ## Installation
 
