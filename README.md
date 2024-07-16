@@ -1,7 +1,7 @@
 # Welcome to Chaereong's GitHub 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Chaereong%20Lim&fontSize=70&desc=welcome%20to%20my%20GitHub&descAlign=50&descSize=20" style="position: relative; z-index: 1;">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Chaereong%20Lim&fontSize=70&desc=welcome%40to%20my%20GitHub&descAlign=50&descSize=20" style="position: relative; z-index: 1;">
 </div>
 
 ## Tech
