@@ -22,6 +22,9 @@
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 </div>
 
+<br>
+
+<div align="center"><b>Contact</b></div>
 
 <br>
 
