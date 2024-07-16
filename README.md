@@ -2,8 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Chaereong%20Lim&fontSize=70&desc=welcome%20to%20my%20GitHub&descAlignY=80&descAlign=70&descSize=20">
 </div>
 
+## <div align="center"><b>Tech Stack</b></div>
+
 <div align="center">
-  Tech Stack
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
