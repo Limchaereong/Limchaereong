@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Chaereong%20Lim&fontSize=70&desc=welcome%20to%20my%20GitHub&descAlignY=80&descAlign=70&descSize=20">
 </div>
 
-<div align="center"><b><h2>Tech Stack</h2></b></div>
+<div align="center"><b>Tech Stack</b></div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
