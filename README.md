@@ -26,8 +26,6 @@
 
 <div align="center"><b>Contact</b></div>
 
-<br>
-
 <div align="center">
 <a href="mailto:wonjongah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a>
 </div>
