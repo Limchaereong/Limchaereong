@@ -5,7 +5,7 @@
 <div align="center"><b><h2>Tech Stack</h2></b></div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=#006600&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 </div>
 
 
