@@ -5,6 +5,16 @@
 <br>
 
 <div align="center">
+안녕하세요! 👋
+  <br>
+백엔드를 공부하는 임채령입니다.
+  <br>
+저는 포기하지 않고 끝까지 도전합니다!
+</div>
+
+<br>
+
+<div align="center">
   <b style="font-size: 24px;">Tech Stack</b>
 </div>
 
