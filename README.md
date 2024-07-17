@@ -4,7 +4,9 @@
 
 <br>
 
-<div align="center"><b>Tech Stack</b></div>
+<div align="center">
+  <b style="font-size: 24px;">Tech Stack</b>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -22,7 +24,9 @@
 
 <br>
 
-<div align="center"><b>Contact</b></div>
+<div align="center">
+  <b style="font-size: 24px;">Contact</b>
+</div>
 
 <div align="center">
 <a href="mailto:sa990422@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sa990422@gmail.com"/></a>
