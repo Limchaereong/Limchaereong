@@ -50,5 +50,5 @@
   </a>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Limchaereong&show_icons=true&theme=dracula" alt="GitHub Stats">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limchaereong&theme=algolia&show_icons=true)
 </div>
