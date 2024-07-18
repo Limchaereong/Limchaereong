@@ -50,5 +50,5 @@
   </a>
   <br>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Limchaereong&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Limchaereong&show_icons=true&theme=dracula" alt="GitHub Stats">
 </div>
