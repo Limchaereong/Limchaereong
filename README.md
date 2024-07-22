@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <b style="font-size: 24px;">Tech Stack</b>
+  <b style="font-size: 36px;">Tech Stack</b>
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@
 <br>
 
 <div align="center">
-  <b style="font-size: 24px;">Contact</b>
+  <b style="font-size: 36px;">Contact</b>
 </div>
 
 <div align="center">
