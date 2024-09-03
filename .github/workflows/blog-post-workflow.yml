@@ -13,7 +13,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in Velog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://v2.velog.io/rss/1im_chaereong"
+          post_template: "<li><a href='{{link}}'>{{title}}</a></li>"
+          readme_path: "README.md"
