@@ -67,4 +67,9 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes : Rocky Linux와 UTM을 활용한 클러스터 구축](https://velog.io/@1im_chaereong/Kubernetes-Rocky-Linux%EC%99%80-UTM%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B5%AC%EC%B6%95)
+- [유레카와 게이트웨이를 활용한 MSA 서비스 구축](https://velog.io/@1im_chaereong/%EC%9C%A0%EB%A0%88%EC%B9%B4%EC%99%80-%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-MSA-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95)
+- [Kubernetes : Rocky Linux와 UTM을 활용한 클러스터 초기 구축](https://velog.io/@1im_chaereong/Kubernetes-Rocky-Linux%EC%99%80-UTM%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%B4%88%EA%B8%B0-%EA%B5%AC%EC%B6%95)
+- [Kubernetes : Pod, Service, 클러스터 구조](https://velog.io/@1im_chaereong/Kubernetes-Pod-Service-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B5%AC%EC%A1%B0)
+- [Docker - 핵심 개념과 관리 전략](https://velog.io/@1im_chaereong/Docker-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90%EA%B3%BC-%EA%B4%80%EB%A6%AC-%EC%A0%84%EB%9E%B5)
 <!-- BLOG-POST-LIST:END -->
