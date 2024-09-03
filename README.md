@@ -73,9 +73,9 @@
   <ul style="list-style: none; padding-left: 0;">
     <!-- BLOG-POST-LIST:START -->
     <li><a href="https://velog.io/@1im_chaereong/Kubernetes-Rocky-Linux와-UTM을-활용한-클러스터-구축" target="_blank">Kubernetes : Rocky Linux와 UTM을 활용한 클러스터 구축</a></li>
-    <li><a href="https://velog.io/@1im_chaereong/유레카와-게이트웨이를-활용한-MSA-서비스-구축" target="_blank">유레카와 게이트웨이를 활용한 MSA 서비스 구축</a></li>
     <li><a href="https://velog.io/@1im_chaereong/Kubernetes-Rocky-Linux와-UTM을-활용한-클러스터-초기-구축" target="_blank">Kubernetes : Rocky Linux와 UTM을 활용한 클러스터 초기 구축</a></li>
     <li><a href="https://velog.io/@1im_chaereong/Kubernetes-Pod-Service-클러스터-구조" target="_blank">Kubernetes : Pod, Service, 클러스터 구조</a></li>
+    <li><a href="https://velog.io/@1im_chaereong/유레카와-게이트웨이를-활용한-MSA-서비스-구축" target="_blank">유레카와 게이트웨이를 활용한 MSA 서비스 구축</a></li>
     <li><a href="https://velog.io/@1im_chaereong/Docker-핵심-개념과-관리-전략" target="_blank">Docker - 핵심 개념과 관리 전략</a></li>
     <!-- BLOG-POST-LIST:END -->
   </ul>
