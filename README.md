@@ -65,8 +65,6 @@
 
 <br>
 
-
-
 <div align="center">
   <b style="font-size: 36px;">Velog</b>
   <br>
