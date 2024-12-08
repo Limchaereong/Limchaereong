@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Chaereong%20Lim&fontSize=70&desc=welcome%20to%20my%20GitHub&descAlignY=80&descAlign=70&descSize=20">
-</div>
+</div> -->
 
 <br>
 
